@@ -12,3 +12,4 @@ wear/build/*
 common/build/*
 pebbleKit/build/*
 .DS_Store
+gradle.properties
